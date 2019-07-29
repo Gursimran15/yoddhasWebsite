@@ -5,3 +5,9 @@ $(window).scroll(function(){
        $('#dynamic').removeClass('opaque-navbar');
     }
 });
+
+
+// bonemarrow
+$('.carousel').carousel({
+  interval: 2000
+})
